@@ -13,8 +13,9 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'yadavgulshan',
+  organizationName: 'Gulshan Yadav',
   projectName: 'docs', 
+  trailingSlash: false,
 
   presets: [
     [
