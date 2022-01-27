@@ -11,7 +11,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Easy to Understand',
-    image: '/img/undraw_docusaurus_mountain.svg',
+    image: '/img/undraw_product_teardown_re_m1pc.svg',
     description: (
       <>
         I'm a student who don't like the complex and I like to make them simple and easy to understand.
@@ -20,7 +20,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Focused on the stuff that matters!',
-    image: '/img/undraw_docusaurus_tree.svg',
+    image: '/img/undraw_programming_re_kg9v.svg',
     description: (
       <>
         I don't like learning the stuff that I won't use in future. Yeah I know I'm not a fortune teller or something. 
@@ -30,7 +30,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Powered by Gulshan Yadav',
-    image: '/img/undraw_docusaurus_react.svg',
+    image: '/img/undraw_product_iteration_kjok.svg',
     description: (
       <>
         I'm a student developer who is looking for a job so that I can learn and grow.
