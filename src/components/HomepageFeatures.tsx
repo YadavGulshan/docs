@@ -10,32 +10,32 @@ type FeatureItem = {
 
 const FeatureList: FeatureItem[] = [
   {
-    title: 'Easy to Use',
+    title: 'Easy to Understand',
     image: '/img/undraw_docusaurus_mountain.svg',
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        I'm a student who don't like the complex and I like to make them simple and easy to understand.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Focused on the stuff that matters!',
     image: '/img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        I don't like learning the stuff that I won't use in future. Yeah I know I'm not a fortune teller or something. 
+        But after juggeling through docs and job requirements, I have a decent idea, what are the things that actually matters.  
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Powered by Gulshan Yadav',
     image: '/img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        I'm a student developer who is looking for a job so that I can learn and grow.
+        Are you interested???
+        Please check out my <a href="https://gulshan.cf" target="_blank" rel="noopener noreferrer">website.</a>
       </>
     ),
   },
