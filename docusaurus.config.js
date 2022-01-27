@@ -22,15 +22,14 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          showLastUpdateTime: true,
           sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl: 'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+          editUrl: 'https://github.com/yadavgulshan/docs',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+        sitemap : {
+          changefreq: 'weekly',
+          priority: 0.5,
+          trailingSlash: true
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -97,11 +96,11 @@ const config = {
             items: [
               {
                 label: 'Blog',
-                to: '/blog',
+                to: 'https://gulshan.cf/blog',
               },
               {
                 label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                href: 'https://github.com/yadavgulshan',
               },
             ],
           },
