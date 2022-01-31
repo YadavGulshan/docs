@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'Welcome to my docs',
   tagline: 'Well, hello there!',
-  url: 'https://gulshan.cf',
+  url: 'https://doc.gulshan.cf',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
